@@ -1,5 +1,6 @@
 World Visualization Client
 -----------------------------
+Project to visualize the Financial Stability Index of all countries from 1960 - 2016
 > https://world-fsi.herokuapp.com
 # Install dependencies
 Browsers Supported Chrome (v40+), Firefox (v41+)
